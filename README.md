@@ -32,13 +32,13 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 ```
 
-## Development (작업 방법)
-
 Setup Prisma
 
 ```sh
 npx prisma db push
 ```
+
+## Development (작업 방법)
 
 Start the app
 
