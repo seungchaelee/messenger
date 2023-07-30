@@ -1,6 +1,6 @@
-# NextJs TypeScript Project
+# Messenger Project
 
-Next, TypeScript, 프로젝트🎖
+Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher 프로젝트🎖
 
 - **반드시 아래 Setup과 Development 부분을 읽어보세요.**
 - 문의는 id4720@gmail.com
@@ -51,4 +51,3 @@ npm run dev
 
 배포 사이트
 1. [MESSENGER](https://messenger-1xim6hp5p-seungchaelee.vercel.app/)
-2. 서버랑 통신하면 더 많은 데이터를 볼수 있습니다.
