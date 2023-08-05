@@ -50,4 +50,4 @@ npm run dev
 
 
 배포 사이트
-1. [MESSENGER](https://messenger-1xim6hp5p-seungchaelee.vercel.app/)
+1. [MESSENGER](https://messenger-wheat.vercel.app/)
